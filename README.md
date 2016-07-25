@@ -3,4 +3,4 @@
 <br/>
 预览效果：
 <br/>
-https://gaotenglong.github.io/test/index.html
+https://gaotenglong.github.io/banners-as-jingdong/index.html
